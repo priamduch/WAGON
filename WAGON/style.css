@@ -1,0 +1,84 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #f3fcf1;
+  }
+  
+  .container {
+    font-style: Roboto;
+    font-weight: bold;
+    color: #636363;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  h1 {
+    font-size: 50px;
+    color: #5d8980;
+    text-shadow: 1px 1px 2px;
+  }
+  h2 {
+    font-size: 25px;
+    color: #5d8980;
+    text-shadow: 1px 1px 2px;
+  }
+  h3 {
+    font-size: 15px;
+    color: #6e7372;
+  }
+  
+  #div1 {
+    margin-top: 5%;
+    background-color: white;
+    box-shadow: 1px 1px 10px #d2d1d1;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  
+  #div2 {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 1px 1px 10px #d2d1d1;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  
+  #div3 {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 1px 1px 10px #d2d1d1;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  
+  #div4 {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 1px 1px 10px #d2d1d1;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  
+  #div5 {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 1px 1px 10px #d2d1d1;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  img{
+    border-radius: 50%;
+  }
